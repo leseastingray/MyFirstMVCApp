@@ -30,3 +30,4 @@ C:\Users\Student\Documents\RiverRay\PartyInvites\PartyInvites\obj\Debug\netcorea
 C:\Users\Student\Documents\RiverRay\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.2\PartyInvites.csproj.CopyComplete
 C:\Users\Student\Documents\RiverRay\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.2\Razor\Views\Home\MyView.g.cshtml.cs
 C:\Users\Student\Documents\RiverRay\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.2\Razor\Views\Home\RsvpForm.g.cshtml.cs
+C:\Users\Student\Documents\RiverRay\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.2\Razor\Views\Home\Thanks.g.cshtml.cs
